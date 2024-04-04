@@ -2,19 +2,19 @@ address: https://test-stand.gb.ru
 browser: chrome
 sleep_time: 4
 
-login: Ars_Petrach
-password: 4a69a12334
+login: Nika1111@
+password: 5810230245
 
-title_name: Hello
-description_name: world
-content_name: Hello world!
+title_name: Write
+description_name: Pushkin
+content_name: A.S.Pushkin
 
-your_name: Vasya
-your_email: Vasya@gmail.com
-your_content: Hello world!
+your_name: Natalinka.79
+your_email: Natalinka.79@mail.ru
+your_content: A.S.Pushkin
 
 url_login: https://test-stand.gb.ru/gateway/login
 url_posts: https://test-stand.gb.ru/api/posts
 
-login_1: Olege_Petrach
-password_1: 616cfe511d
+login_1: Maks11
+password_1: 7fcfd10010
